@@ -1,0 +1,104 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-ghVB-8M0E3NBXVkkO4TR86_xWtUrewzQQclgEkIr9OlgyOPjUAZNgP-_r1RkOtPZ1E&usqp=CAU");
+    background-image: cover;
+  }
+
+  h1{
+    text-align: center;
+    color: cadetblue
+  }
+
+  p{
+    color: antiquewhite;
+    font-size: 20px;
+  }
+
+  h2{
+      height: 50px;
+      width: 140px;
+      border-style: solid;
+      border-radius: 20% red;
+      color: palevioletred;
+      background-color: antiquewhite;
+      font-size: 30px;
+  }
+
+  li{
+     color: antiquewhite;
+
+  }
+
+  h3{
+      height: 40px;
+      width: 100px;
+      border-style: solid;
+      border-radius: 20% red;
+      color: palevioletred;
+      background-color: antiquewhite;
+      font-size: 40px;
+  }
+
+  
+
+  o{
+      height: 120px;
+      width: 120px;
+      border-style: solid;
+      border-radius: 20% red;
+      color: palevioletred;
+      background-color: antiquewhite;
+      font-size: 35px;
+  }
+
+  #hello{
+   
+    height: 300px;
+    width: 300px;
+    border: solid;
+    background-image: url("adit.jpg");
+    background-image: cover;
+  }
+   
+
+  j{
+      height: 100px;
+      width: 100px;
+      border-style: solid;
+      border-radius: 20% red;
+      color: palevioletred;
+      background-color: antiquewhite;
+      font-size: 30px;
+      text-align: right;
+  }
+
+  g{
+      height: 100px;
+      width: 100px;
+      border-style: solid;
+      border-radius: 20% red;
+      color: palevioletred;
+      background-color: antiquewhite;
+      font-size: 30px;
+      text-align: right;
+
+  }
+
+  e{
+    height: 100px;
+      width: 100px;
+      border-style: solid;
+      border-radius: 20% red;
+      color: palevioletred;
+      background-color: antiquewhite;
+      font-size: 30px;
+      text-align: right;
+
+  }
+
+  w{
+    color: antiquewhite;
+  }
+
+  r{
+    color: antiquewhite;
+  }
